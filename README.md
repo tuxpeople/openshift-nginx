@@ -1,4 +1,11 @@
 # NGINX image for OpenShift
+---
+**NOTE**
+
+This repository is now not longer actively maintained and therefor archived.
+
+---
+
 
 based on the official nginx image with the following modifications to be able to run on openshift:
 
